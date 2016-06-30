@@ -1,2 +1,3 @@
 # trees
-naive SBB (redblack) and unbalanced tree for my classes at UFMG
+naive has table, SBB tree (redblack) and unbalanced tree for my classes at UFMG
+using C
